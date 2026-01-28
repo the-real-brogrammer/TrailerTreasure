@@ -1,4 +1,4 @@
-# [Trailer Treasure: One man's trailer is another man's treasure](https://the-real-brogrammer.github.io/TrailerTreasure/) <br><br>
+# [Trailer Treasure: One man's trailer is another man's treasure](https://the-real-brogrammer.github.io/TrailerTreasure/) 
 
 ## Pitch<br>
 Picture this: you're at the theaters and see a trailer for a movie that you're immediately sold on. You know you **have** to watch this movie upon release. Of course, you don't want to be rude, so instead of jotting the movie down on your phone in the theater, you take a mental note. By the end of the movie however, you have no clue what the movie was called, who was in it, or what it was even about! You just know there is a mystery movie that you need to see without any way of finding it.<br> <br>
@@ -28,8 +28,6 @@ Monetize with advertisements from studios with upcoming movies as well as 3rd pa
 
 
 ## Vision: To become the go-to movie discovery and trailer community app, making it easier and more fun to connect with films.
-
-<br><br>
 ---
 
 ### Legal

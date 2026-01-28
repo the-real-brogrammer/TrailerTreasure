@@ -34,5 +34,8 @@ Monetize with advertisements from studios with upcoming movies as well as 3rd pa
 - [Privacy Policy](privacy.md)
 
 
+### Support email
+nicolinopaganelli@outlook.com
+
 <br><br>
 Powered by [The Movie Database](https://www.themoviedb.org)

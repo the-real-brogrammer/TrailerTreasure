@@ -28,6 +28,16 @@ Monetize with advertisements from studios with upcoming movies as well as 3rd pa
 
 
 ## Vision: To become the go-to movie discovery and trailer community app, making it easier and more fun to connect with films.
+
+## Screenshots
+
+<div style="display: flex; gap: 10px;">
+  <img src="screenshots/2.png" width="200" height="450" />
+  <img src="screenshots/3.png" width="200" height="450" />
+  <img src="screenshots/4.png" width="200" height="450" />
+  <img src="screenshots/5.png" width="200" height="450" />
+</div>
+
 ---
 
 ### Legal
